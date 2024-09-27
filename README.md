@@ -18,5 +18,4 @@ In this project, I aimed to keep things simple and focus on solidifying the conc
 - **EJS**: Templating engine used for rendering dynamic HTML pages.
 - **Express-Session**: Middleware used for managing sessions.
 - **Cookies**: Used for storing session identifiers on the client side.
-- **MongoDB**: NoSQL database used for storing user data and session information.
 - **Mongoose**: Object Data Modeling (ODM) library for MongoDB and Node.js, used to interact with the MongoDB database.
