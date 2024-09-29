@@ -15,7 +15,7 @@ In this project, I aimed to keep things simple and focus on solidifying the conc
 
 - **Node.js**: Backend runtime environment.
 - **Express.js**: Web framework used for building the server and handling routing.
-- **EJS**: Templating engine used for rendering dynamic HTML pages.
+- **EJS**: Templating engine used for rendering dynamic HTML pages (Basic pages).
 - **Express-Session**: Middleware used for managing sessions.
 - **Cookies**: Used for storing session identifiers on the client side.
 - **Mongoose**: Object Data Modeling (ODM) library for MongoDB and Node.js, used to interact with the MongoDB database.
